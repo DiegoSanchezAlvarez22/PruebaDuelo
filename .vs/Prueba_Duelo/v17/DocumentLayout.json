@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86ECD3B-6B60-946D-F039-81773F4559E5}|Assembly-CSharp.csproj|c:\\users\\diego\\onedrive\\escritorio\\proyectosclase\\prueba_duelo\\assets\\scripts\\playermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86ECD3B-6B60-946D-F039-81773F4559E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermov.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86ECD3B-6B60-946D-F039-81773F4559E5}|Assembly-CSharp.csproj|C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\assets\\others\\input1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86ECD3B-6B60-946D-F039-81773F4559E5}|Assembly-CSharp.csproj|solutionrelative:assets\\others\\input1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86ECD3B-6B60-946D-F039-81773F4559E5}|Assembly-CSharp.csproj|C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\assets\\scripts\\camerapos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86ECD3B-6B60-946D-F039-81773F4559E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerapos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input1.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\Assets\\Others\\Input1.cs",
+              "RelativeDocumentMoniker": "Assets\\Others\\Input1.cs",
+              "ToolTip": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\Assets\\Others\\Input1.cs",
+              "RelativeToolTip": "Assets\\Others\\Input1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T16:35:08.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMov.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\Assets\\Scripts\\PlayerMov.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMov.cs",
+              "ToolTip": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\Assets\\Scripts\\PlayerMov.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMov.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:13:37.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraPos.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\Assets\\Scripts\\CameraPos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraPos.cs",
+              "ToolTip": "C:\\Users\\Diego\\OneDrive\\Escritorio\\ProyectosClase\\Prueba_Duelo\\Assets\\Scripts\\CameraPos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraPos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T07:02:10.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
